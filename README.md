@@ -1,9 +1,6 @@
-<p align="center">
-<a href="https://raw.githubusercontent.com/MADWIN11/test/refs/heads/main/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B8%CC%86%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20(2).png"><img src="https://raw.githubusercontent.com/MADWIN11/test/refs/heads/main/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B8%CC%86%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20(2).png"/></a>
+# App Control **DELTA**
 
-# Operating System Tester's Program
-
-Hello, this is ost program. The program was created to quickly reboot the phone into different modes, for example: fastbootd, fastboot, download mode and a bunch of different modes. Also, using ROOT rights, you can view all system applications and can also remove them.
+The idea of ​​the program was taken from AAC (AdbAppControl) [https://adbappcontrol.com/ru/], but made and implemented in a .bat script.
 
 The program has its own AI assistant - gemini. The program also has support not only for Samsung, but for almost all phones.
 
