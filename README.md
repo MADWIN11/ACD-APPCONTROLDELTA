@@ -11,4 +11,5 @@ chatgpt - https://chatgpt.com/, help with some functions
 
 # Info
 
-made in russia and ukraine. developer: operating system tester, translate: radomyr, anton, bohdan, mdfile: zhh4eny
+made in ukraine, with love
+
