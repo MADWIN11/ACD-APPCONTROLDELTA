@@ -1,13 +1,13 @@
-# App Control **DELTA**
+# App Control | DELTA
+Что это за программа, и как ей пользоваться? Сначало расскажу о самой программе, это так скажем "Fork" ADBAppControl, только сделана на скрипте bat. В программе можно посмотреть какие программы есть на вашем телефоне, удалить а так же - можно **ПОСМОТРЕТЬ, КАКИЕ ПРОГРАММЫ И СКОЛЬКО ОПЕРАТИВНОЙ ПАМЯТИ УПОТРЕБЛЯЮТ!**
 
-The idea of ​​the program was taken from AAC (AdbAppControl) [https://adbappcontrol.com/ru/], but made and implemented in a .bat script.
+# Кем сделана эта программа?
+Программа разработана **ОДНИМ** микрочеликом - [tgk](https://t.me/zh4eny) [yt](https://www.youtube.com/@zhh4eny)
 
-# Developers
+# Программа тестировалась? Если да, на чём?
+Программа тестировалась, да. И тестировалась она на Redmi 10 2022 (Selene). Он был три раза закирпичен XD
 
-zhh4eny - https://t.me/zh4eny, created program
-chatgpt - https://chatgpt.com/, help with some functions
+# Где можно скачать эту программу?
+Пока что, лишь можно скачать на этом гитхбе. На котором вы сейчас и сидите, в будущем хочу залить на 4пда
 
-# Info
-
-made in ukraine, with love
-
+#subtozhh4
